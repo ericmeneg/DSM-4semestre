@@ -32,7 +32,7 @@ export default function App() {
     <PaperProvider>
       <View style={styles.container}>
         <Text>Lista de usuários</Text>
-        <ListaUsuarios lista={lista} />
+        <ListaUsuarios lista={lista} updateLista={updateLista}/>
         <Divider />
         <FormUsuario updateLista={updateLista} />
         <StatusBar style="auto" />
