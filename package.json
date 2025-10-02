@@ -1,0 +1,12 @@
+{
+  "name": "dsm-4semestre",
+  "version": "1.0.0",
+  "description": "Repositório dedicado para projetos realizados como parte do quarto semestre do curso de desenvolvimento de software multiplataforma na Fatec de Indaiatuba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
